@@ -1,0 +1,78 @@
+    1  git config --global user.name "sneha debsikdar s3795730"
+    2  git config –global user.email "s3795730@student.rmit.edu.au"
+    3  git config –-global user.email "s3795730@student.rmit.edu.au"
+    4  git config –global user.email "s3795730@student.rmit.edu.au"
+    5  history
+    6  git config --global user.email s3795730@student.rmit.edu.au
+    7  git config –global color.ui auto
+    8  git config -–global color.ui auto
+    9  git config --global color.ui auto
+   10  git clone https://github.com/isys1118-sef2020/lab-1-git-and-github-s3795730.git
+   11  git branch
+   12  git branch --all
+   13  https://github.com/isys1118-sef2020/lab-1-git-and-github-s3795730.git
+   14  ls
+   15  /Users/snehadebsikdar/Desktop/softengg
+   16  git clone https://github.com/isys1118-sef2020/lab-1-git-and-github-s3795730.git
+   17  cd
+   18  pwd
+   19  /Users/snehadebsikdar/lab-1-git-and-github-s3795730
+   20  cd /Users/snehadebsikdar/lab-1-git-and-github-s3795730
+   21  ls
+   22  git branch
+   23  cd
+   24  cd Desktop
+   25  branch updatingcode
+   26  git branch updatingcode
+   27  git branch
+   28  touch Answers.md
+   29  Vim Answers.md
+   30  git checkout updatingcode
+   31  git checkout -b assignment
+   32  git diff assignment updatingcode 
+   33  git merge assignment
+   34  Vim Answers.md
+   35  Vim Answers.md
+   36  Vim Answers.md
+   37  Vim Answers.md
+   38  git merge assignment master
+   39  git log
+   40  git log --oneline --graph
+   41  Vim Answers.md
+   42  commit -m "all the branches merged"
+   43  git commit -m "all the branches merged"
+   44  git status
+   45  git status
+   46  git add Answer.md
+   47  git add Answers.md
+   48  git commit -m "all the branches merged"
+   49  Vim Answers.md
+   50  git push -u origin master
+   51  git push master
+   52  git push --set-upstream master assignment
+   53  git push -u origin master
+   54  git push origin master
+   55  git push origin master
+   56  git push origin master
+   57  git branch
+   58  git checkout master
+   59  git commit -a 
+   60  git commit -am "all branches merged"
+   61  git checkout master
+   62  git push origin master
+   63  git remote add origin https://github.com/isys1118-sef2020/lab-1-git-and-github-s3795730.git
+   64  git push origin master
+   65  git push -u origin master
+   66  git remote add origin https://github.com/s3795730/SE-test.git
+   67  git remote add origin https://github.com/s3795730/SE-test.git
+   68  git remote set-url origin https://github.com/s3795730/SE-test.git
+   69  git push -u origin master
+   70  git checkout assignment
+   71  ls
+   72  git add Answers.md 
+   73  git commit -m "all branches merged"
+   74  git push origin assignment
+   75  git branch
+   76  git checkout master
+   77  ls
+   78  history > commands.txt
